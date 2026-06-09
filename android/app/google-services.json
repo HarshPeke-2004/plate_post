@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862383259193",
+    "project_id": "platepost-8ce3d",
+    "storage_bucket": "platepost-8ce3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862383259193:android:03266bbe29c206fb0117e8",
+        "android_client_info": {
+          "package_name": "com.example.plate_post"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGjPsKdM2upoV7gp5c2U9PJ_3oJUeeQT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
